@@ -2,7 +2,7 @@ package com.app;
 
 public class FrequencyCharacter {
 	public static void main(String[] args) {
-		String str = "picture perfect";
+		String str = "india";
 		int[] freq = new int[str.length()];
 		int i, j;
 		char string[] = str.toCharArray();
